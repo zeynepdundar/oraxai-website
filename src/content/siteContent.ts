@@ -183,7 +183,7 @@ export const siteContent: Record<Language, SiteCopy> = {
         'EU GMP / GDP',
         'Annex 11',
         'GAMP 5',
-        'ALCOA+',
+        'Data Integrity',
       ],
       note:
         'Teknik mimari ve validasyon dokümantasyonu talep üzerine paylaşılır.',
@@ -386,7 +386,7 @@ export const siteContent: Record<Language, SiteCopy> = {
         'EU GMP / GDP',
         'Annex 11',
         'GAMP 5',
-        'ALCOA+',
+        'Data Integrity',
       ],
       note: 'Technical architecture and validation documentation are available on request.',
     },

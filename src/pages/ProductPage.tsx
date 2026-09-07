@@ -64,9 +64,9 @@ const assuranceContent = {
     items: [
       { title: 'Yazılım validasyonu', text: 'Risk temelli validasyon yaklaşımı; gereksinim, test, izlenebilirlik ve kontrollü değişiklik yaşam döngüsünü destekler.' },
       { title: 'Denetim İzi (Audit Trail)', text: 'Kritik işlemler ve veri değişiklikleri; kullanıcı, zaman, eski-yeni değer ve işlem bağlamıyla izlenebilir biçimde kaydedilir.' },
-      { title: 'Veri Bütünlüğü (Data Integrity)', text: 'Kayıtların doğru, eksiksiz, tutarlı ve erişilebilir kalmasını destekleyen kontroller ALCOA+ ilkeleri doğrultusunda ele alınır.' },
+      { title: 'Veri Bütünlüğü (Data Integrity)', text: 'Kayıtların doğru, eksiksiz, tutarlı ve erişilebilir kalmasını destekleyen kontroller Data Integrity ilkeleri doğrultusunda ele alınır.' },
     ],
-    standards: 'FDA 21 CFR Part 11 · EU GMP Annex 11 · GAMP 5 · ALCOA+',
+    standards: 'FDA 21 CFR Part 11 · EU GMP Annex 11 · GAMP 5 · Data Integrity',
     note: 'Validasyon kapsamı, dokümantasyon paketi ve teknik kontroller; ürün, kullanım senaryosu ve kurumun kalite sistemi doğrultusunda proje bazında netleştirilir.',
   },
   en: {
@@ -76,9 +76,9 @@ const assuranceContent = {
     items: [
       { title: 'Software validation', text: 'A risk-based validation approach supports the requirements, testing, traceability, and controlled-change lifecycle.' },
       { title: 'Audit Trail', text: 'Critical actions and data changes are recorded with user, timestamp, old and new values, and transaction context.' },
-      { title: 'Data Integrity', text: 'Controls designed to keep records accurate, complete, consistent, and available are addressed in line with ALCOA+ principles.' },
+      { title: 'Data Integrity', text: 'Controls designed to keep records accurate, complete, consistent, and available are addressed in line with Data Integrity principles.' },
     ],
-    standards: 'FDA 21 CFR Part 11 · EU GMP Annex 11 · GAMP 5 · ALCOA+',
+    standards: 'FDA 21 CFR Part 11 · EU GMP Annex 11 · GAMP 5 · Data Integrity',
     note: 'Validation scope, documentation packages, and technical controls are defined per project according to the product, intended use, and the organization’s quality system.',
   },
 };
